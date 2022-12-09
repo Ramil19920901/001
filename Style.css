@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  place-content: center;
+  font-family: Georgia;
+  color: red;
+  background-color: white;
+}
+
